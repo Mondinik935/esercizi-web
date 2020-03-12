@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlists><!-- le playlist sono divise in base al gruppo musicale -->
+  	<singola_playlist autore="Sabaton" genere="metal" n_musiche="3" in_riproduzione="False">
+      <song name="fields of Verdun" durata="3:17" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="The Future of Warfare" durata="3:25" in_riproduzione="False">
+      	<locazione>indirizzo musica</locazione>
+      </song>
+      <song name="Wolfpack" durata="5:56" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+  	</singola_playlist>
+  	<singola_playlist autore="THE DREADNOUGHTS" genere="polka" n_musiche="5" in_riproduzione="False">
+      <song name="Roll Northumbria" durata="3:50" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="joli rouge" durata="3:08" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="Pique la baleine" durata="3:03" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="Paddy lay back" durata="3:09" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="Lifeboat Man" durata="1:39" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+  	</singola_playlist>
+  	<singola_playlist autore="Danheim" genere="nordic folk" n_musiche="2" in_riproduzione="True">
+      <song name="Berserkir" durata="3:59" in_riproduzione="True">
+        <locazione>indirizzo musica</locazione>
+      </song>
+      <song name="Ivar's revenge" durata="3:46" in_riproduzione="False">
+        <locazione>indirizzo musica</locazione>
+      </song>
+  	</singola_playlist>
+</playlists>
